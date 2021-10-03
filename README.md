@@ -3,7 +3,7 @@
 ## What is Hacktoberfest?
 Hacktoberfest is a month-long global celebration of open source software run by DigitalOcean in partnership with Intel, AppWrite, and DeepSource, with a strong focus on encouraging contributions to open source projects.
 ## How do I get started?
-1. Visit the official HactoberFest website here
+1. Visit the official HactoberFest website [here](https://hacktoberfest.digitalocean.com/)
 2. Click on the 'Start Hacking' Button.
 3. Login using your Github/ Gitlab account. It is crucial that you have a Github or Gitlab account to take part in Hactoberfest.
 4. Done
