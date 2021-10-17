@@ -1,4 +1,4 @@
-# Hacktoberfest-2021
+# How to register Hacktoberfest-2021 
 ![image](https://user-images.githubusercontent.com/73515291/135740191-9b8f861b-1ac0-4a12-bb45-25582e63aaaa.png)
 ## What is Hacktoberfest?
 Hacktoberfest is a month-long global celebration of open source software run by DigitalOcean in partnership with Intel, AppWrite, and DeepSource, with a strong focus on encouraging contributions to open source projects.
